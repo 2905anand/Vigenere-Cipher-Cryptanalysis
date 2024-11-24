@@ -1,0 +1,58 @@
+-----------------------------------------------
+INPUT CIPHER TEXT IS: 
+
+Ke y yhogk tqyrcxc, i patzmcf ick pwnsgu rpr iqsztryvflm fztvcbf, ijrqqam uyylbcu rll rdrcmzvti yglqkp tmzaktj. Rpr ywe bqcvgu zmyuy kfm uutzxwa, vczlbvti kfm fqa zl phku fd wegpxc iaj rzls. Ny vyc vvmjk qmgznvb qa, zjv aig vclqmq, rkjrmaopx rw gng jmng cjzqxrxu fd buk yzll. Gng jriey dveia zq kuqaqnv, yvq g ivlbyk dicmmk erpzvkf kfm figer ws hnfmuvti wjwjktj. Rpr ick, dmrrkee i fkpjc ws vgram, patccl hv webme g vicm, prqjgvt ovj cgry cj bzrgoj biaigu gv gng dmwarkk lqtnv.
+
+
+-----------------------------------------------
+Possible Key Size as per Kasiski Method: 
+
+228 6 167 2 
+
+
+-----------------------------------------------
+Possible Key Length from 2 to 10 is :
+6 2 
+ 
+
+For key of size2  IC VALUE IS 0.0496063
+For key of size6  IC VALUE IS 0.0700098
+
+-----------------------------------------------
+
+Finalised Key as per Index of Coincidence Method is --  6
+
+
+
+-----------------------------------------------
+26 Possible KEYS: 
+
+APWGLE 0
+BQXHMF 0
+CRYING 29
+DSZJOH 1
+ETAKPI 0
+FUBLQJ 0
+GVCMRK 0
+HWDNSL 0
+IXEOTM 0
+JYFPUN 0
+KZGQVO 0
+LAHRWP 0
+MBISXQ 0
+NCJTYR 0
+ODKUZS 0
+PELVAT 0
+QFMWBU 0
+RGNXCV 0
+SHOYDW 0
+TIPZEX 0
+UJQAFY 0
+VKRBGZ 0
+WLSCHA 0
+XMTDIB 0
+YNUEJC 0
+ZOVFKD 0
+
+Key: CRYING
+Plaintext: In a quiet village, a curious cat roamed the cobblestone streets, chasing shadows and exploring hidden corners. The sun dipped below the horizon, painting the sky in hues of orange and pink. As the night settled in, the cat paused, listening to the soft whispers of the wind. The stars began to twinkle, and a gentle breeze carried the scent of blooming flowers. The cat, feeling a sense of peace, curled up under a tree, closing its eyes as dreams danced in the moonlit night.
